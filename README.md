@@ -19,7 +19,7 @@ Welcome to the **Reboot AI Contest**, a creative competition designed for studen
 
 ## Contest Modalities
 
-### 1. The Winter Song
+### 1. The Summer Song
 Participants will use AI-powered music generation tools like **Suno** to create a short song.
 
 ![](https://res.cloudinary.com/dbjlaop5w/image/upload/v1730206914/codeskills/generative-ai/Generative%20AI%20in%20Creative%20Industries/wuhna1gs9vhjutxjigtr.jpg)
