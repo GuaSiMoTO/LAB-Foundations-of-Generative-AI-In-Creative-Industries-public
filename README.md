@@ -22,7 +22,8 @@ Welcome to the **Reboot AI Contest**, a creative competition designed for studen
 ### 1. The Summer Song
 Participants will use AI-powered music generation tools like **Suno** to create a short song.
 
-![](https://res.cloudinary.com/dbjlaop5w/image/upload/v1730206914/codeskills/generative-ai/Generative%20AI%20in%20Creative%20Industries/wuhna1gs9vhjutxjigtr.jpg)
+
+![ChatGPT Image 27 jun 2025, 15_21_27](https://github.com/user-attachments/assets/5e1ad63c-0cd8-4d81-8b03-f17283547cec)
 
 - **Duration:** Up to 1 minute
 - **Theme:** Free choice
