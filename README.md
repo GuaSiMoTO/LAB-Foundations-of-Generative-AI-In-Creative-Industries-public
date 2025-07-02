@@ -64,4 +64,5 @@ Using **InVideo**, teams will create a suspenseful movie trailer.
 
 1. **GitHub Repository:** Each team should fork this repository to work on their project and commit their final versions to their repository.
 2. **Final Presentation:** Each team will present their work at the end of the contest. Be ready to explain your approach, challenges, and outcomes.
-
+LAB TERMINADO:
+https://docs.google.com/presentation/d/1SUFEpKluXGKmbbv7QPVBbMm1bZssggenR9Ec-bWGv_o/edit?usp=sharing
